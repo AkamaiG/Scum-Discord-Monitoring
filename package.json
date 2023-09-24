@@ -1,0 +1,19 @@
+{
+  "name": "scum-discord-monitoring",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scum"
+  ],
+  "author": "Akamai",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.0",
+    "discord.js": "^13.16.0"
+  }
+}
